@@ -1,0 +1,16 @@
+{
+  "original_samples": 3025,
+  "included_single_word_samples": 2881,
+  "excluded_multiword_samples": 144,
+  "included_writers": 303,
+  "unique_word_transcriptions": 667,
+  "correct_words": 2567,
+  "incorrect_words": 314,
+  "word_accuracy": 0.8910100659493232,
+  "wer": 0.10898993405067685,
+  "character_errors": 595,
+  "total_characters": 12797,
+  "cer": 0.04649527232945221,
+  "unicode_normalization": "NFC",
+  "filter": "Exactly one whitespace-separated ground-truth token"
+}

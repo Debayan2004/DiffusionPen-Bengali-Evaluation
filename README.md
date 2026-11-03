@@ -36,4 +36,8 @@ Run: python Writer_Identification/evaluate_writer_identification.py --manifest R
 
 Install dependencies using: pip install -r requirements.txt
 
+#Important Checkpoints
+
+https://drive.google.com/drive/folders/1KEGaxqqyRuvgG48AXWQF6cx0-U-GN7x0?usp=sharing
+
 

@@ -36,4 +36,4 @@ Run: python Writer_Identification/evaluate_writer_identification.py --manifest R
 
 Install dependencies using: pip install -r requirements.txt
 
-Dataset images are not distributed. Checkpoint redistribution is subject to the original licenses and permissions.
+
